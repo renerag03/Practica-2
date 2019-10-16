@@ -1,0 +1,28 @@
+#cabeceraweb{
+    background-color: darkred;
+}
+
+#navegadorprincipal{
+    background-color: orangered;
+}
+
+#navegadorlateral{
+    background-color: darkblue;
+    float: left;
+    height: 535px;
+}
+
+#contenidoprincipal{
+    background-color: gray;
+    margin-left: 180px;
+}
+
+#pieprincipal{
+    background-color: limegreen;
+    clear: both;
+}
+
+li{
+    background-color: gold;
+    display: inline;
+}
